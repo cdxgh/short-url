@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://db.url.find({})",
+            "request": "launch",
+            "url": "http://db.url.find({})"
+        }
+    ]
+}
